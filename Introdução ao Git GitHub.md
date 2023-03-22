@@ -1,5 +1,5 @@
 # Anotações Git
 
  - mkdir = criar diretorio 
- - mkdir = excluir 
+ - rmdir = excluir 
  - ctrl + l = limpar tela 
